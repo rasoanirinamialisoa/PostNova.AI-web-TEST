@@ -20,6 +20,7 @@ Frontend web React propulsé par Vite pour la plateforme SaaS **PostNova.AI** �
 - **Gestion d’état** : Zustand
 
 
+
 ## 🚀 Installation
 
 ### Prérequis
@@ -31,8 +32,8 @@ Frontend web React propulsé par Vite pour la plateforme SaaS **PostNova.AI** �
 
 ```bash
 # Clone
-git clone https://github.com/Equipe-2-etech2025/PostNova.AI-web.git
-cd PostNova.AI-web
+git clone https://github.com/Equipe-2-etech2025/PostNova.AI-frontend.git
+cd PostNova.AI-frontend
 
 # Install
 npm install
